@@ -11,11 +11,6 @@ Mentor : Lisa Kristiana
 * [Testing ns-3](#testing-ns-3)
 * [Running ns-3](#running-ns-3)
 * [ns-3 Documentation](#ns-3-documentation)
-* [Working with the Development Version of ns-3](#working-with-the-development-version-of-ns-3)
-* [Contributing to ns-3](#contributing-to-ns-3)
-* [Reporting Issues](#reporting-issues)
-* [Asking Questions](#asking-questions)
-* [ns-3 App Store](#ns-3-app-store)
 
 > **NOTE**: Much more substantial information about ns-3 can be found at
 <https://www.nsnam.org>
@@ -219,56 +214,3 @@ This documentation includes:
   a reference manual, most likely not very well suited
   as introductory text:
   <https://www.nsnam.org/doxygen/index.html>
-
-## Working with the Development Version of ns-3
-
-If you want to download and use the development version of ns-3, you
-need to use the tool `git`. A quick and dirty cheat sheet is included
-in the manual, but reading through the Git
-tutorials found in the Internet is usually a good idea if you are not
-familiar with it.
-
-If you have successfully installed Git, you can get
-a copy of the development version with the following command:
-
-```shell
-git clone https://gitlab.com/nsnam/ns-3-dev.git
-```
-
-However, we recommend to follow the GitLab guidelines for starters,
-that includes creating a GitLab account, forking the ns-3-dev project
-under the new account's name, and then cloning the forked repository.
-You can find more information in the [manual](https://www.nsnam.org/docs/manual/html/working-with-git.html).
-
-## Contributing to ns-3
-
-The process of contributing to the ns-3 project varies with
-the people involved, the amount of time they can invest
-and the type of model they want to work on, but the current
-process that the project tries to follow is described in the
-[contributing code](https://www.nsnam.org/developers/contributing-code/)
-website and in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-## Reporting Issues
-
-If you would like to report an issue, you can open a new issue in the
-[GitLab issue tracker](https://gitlab.com/nsnam/ns-3-dev/-/issues).
-Before creating a new issue, please check if the problem that you are facing
-was already reported and contribute to the discussion, if necessary.
-
-## Asking Questions
-
-ns-3 has an official [ns-3-users message board](https://groups.google.com/g/ns-3-users)
-where the community asks questions and share helpful advice.
-Additionally, ns-3 has the [ns-3 Zulip chat](https://ns-3.zulipchat.com/), used to discuss
-development issues and questions among maintainers and the community.
-
-Please use the above resources to ask questions about ns-3, rather than creating issues.
-
-## ns-3 App Store
-
-The official [ns-3 App Store](https://apps.nsnam.org/) is a centralized directory
-listing third-party modules for ns-3 available on the Internet.
-
-More information on how to submit an ns-3 module to the ns-3 App Store is available
-in the [ns-3 App Store documentation](https://www.nsnam.org/docs/contributing/html/external.html).
