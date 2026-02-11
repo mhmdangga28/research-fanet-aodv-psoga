@@ -1,5 +1,5 @@
 # Research program that simulated FANET network 
-Researcher : Muhammad Rangga Ridjali
+Researcher : Muhammad Rangga Ridjali </br>
 Mentor : Lisa Kristiana
 
 ## Table of Contents
