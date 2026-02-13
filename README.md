@@ -238,10 +238,10 @@ cd ~/ns-3-dev
 ```
 
 ## Jalankan NetAnim
-
-```masuk ke folder netanim
+- Masuk ke folder netanim
+```
 cd ~/ns-3-allinone/netanim
 ```
-
-```Jalankan Netanim
+- Jalankan Netanim
+```
 ./NetAnim
