@@ -196,17 +196,33 @@ the support for future Python users.
 
 ## Building NetAnim
 
-NetAnim Simulation
+NetAnim adalah tool visualisasi berbasis GUI yang digunakan untuk menampilkan hasil simulasi jaringan dari ns-3 dalam bentuk animasi pergerakan node dan alur komunikasi paket.
+
+NetAnim membaca file output `.xml` yang dihasilkan oleh `AnimationInterface` pada program ns-3.
+
+---
+
+### NetAnim Simulation Result
+
 <img width="1365" height="767" alt="hasil_simulasi_netanim" src="https://github.com/user-attachments/assets/dda40b70-1f02-4dcc-907e-5f68a8c20585" />
+
+Gambar di atas menunjukkan visualisasi topologi jaringan, pergerakan node, serta transmisi paket selama simulasi berlangsung.
+
+---
 
 ## Install Qt Dependency
 
-```bash
+NetAnim membutuhkan library Qt5 agar dapat dikompilasi dan dijalankan.
+
+Jalankan perintah berikut untuk menginstall dependency:
+
+```
 sudo apt update
 sudo apt install qt5-default qtbase5-dev qtchooser qt5-qmake qtbase5-dev-tools -y
 ```
-
 ## Compile NetAnim
+
+- Masuk ke direktori NetAnim yang berada dalam folder
 
 ```
 cd ~/ns-3-allinone/netanim
@@ -219,12 +235,16 @@ Pastikan terdapat folder NetAnim
 
 ## Masuk ke Folder ns-3
 
+- Kembali ke direktori utama ns-3
+  
 ```
 cd ~/ns-3-dev
 ```
 
 ## Build ns-3 (Jika Pertama Kali)
 
+- Jika ini adalah pertama kali menggunakan ns-3 pada environment tersebut, lakukan proses konfigurasi dan build:
+  
 ```
 ./ns3 configure
 ./ns3 build
@@ -235,9 +255,16 @@ cd ~/ns-3-dev
 ```
 ./ns3 run scratch/my-simulation
 ```
+- maka setelah simulasi selesai akan dihasilkan file
+
+```
+fanet-animation.xml
+```
 
 ## Jalankan NetAnim
+
 - Masuk ke folder NetAnim
+  
 ```
 cd ~/ns-3-allinone/netanim
 ```
