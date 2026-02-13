@@ -215,8 +215,7 @@ make
 ls
 ```
 
-Pastikan terdapat file: 
-NetAnim
+Pastikan terdapat folder NetAnim
 
 ## Masuk ke Folder ns-3
 
