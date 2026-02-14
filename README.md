@@ -7,11 +7,12 @@ Mentor : Lisa Kristiana
 <p align="center">
   <img src="https://github.com/user-attachments/assets/dadbe151-37d0-4b54-9a10-bdfaca74d3c0" width="400"/>
 </p>
-![DJI_0863](https://github.com/user-attachments/assets/44394064-dc55-4e06-b42f-2436dc10fc69)
 
-![IMG20251223114809](https://github.com/user-attachments/assets/c0a1498b-463b-406c-b0e6-c1e058ba4126)
 
-![IMG20251223111210](https://github.com/user-attachments/assets/4f636198-cc5a-428e-9416-bb8f4e9ab9cb)
+![DJI_0862](https://github.com/user-attachments/assets/0749b65e-ea12-457d-9cda-616568f07fd2)
+
+![WhatsApp Image 2025-12-23 at 20 17 57](https://github.com/user-attachments/assets/ea26e269-bb36-4ac6-beb1-cffb1cf36b89)
+
 
 ## Tools Used During Field Testing
 
