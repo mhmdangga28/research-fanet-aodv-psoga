@@ -4,9 +4,8 @@ Mentor : Lisa Kristiana
 
 ## Field Documentetion
 
-![IMG20251219142115](https://github.com/user-attachments/assets/dadbe151-37d0-4b54-9a10-bdfaca74d3c0)
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dadbe151-37d0-4b54-9a10-bdfaca74d3c0" width="250"/>
+  <img src="https://github.com/user-attachments/assets/dadbe151-37d0-4b54-9a10-bdfaca74d3c0" width="400"/>
 </p>
 
 ## Electric Componen
