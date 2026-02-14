@@ -4,15 +4,24 @@ Mentor : Lisa Kristiana
 
 ## Field Documentetion
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/dadbe151-37d0-4b54-9a10-bdfaca74d3c0" width="400"/>
-</p>
-
-
-![DJI_0862](https://github.com/user-attachments/assets/0749b65e-ea12-457d-9cda-616568f07fd2)
-
-![WhatsApp Image 2025-12-23 at 20 17 57](https://github.com/user-attachments/assets/ea26e269-bb36-4ac6-beb1-cffb1cf36b89)
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/dadbe151-37d0-4b54-9a10-bdfaca74d3c0" width="300"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/0749b65e-ea12-457d-9cda-616568f07fd2" width="300"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ea26e269-bb36-4ac6-beb1-cffb1cf36b89" width="300"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f9974442-c2ba-4c67-be72-7dd2a24d5df8" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ## Tools Used During Field Testing
 
