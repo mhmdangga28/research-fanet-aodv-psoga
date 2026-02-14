@@ -8,7 +8,7 @@ Mentor : Lisa Kristiana
   <img src="https://github.com/user-attachments/assets/dadbe151-37d0-4b54-9a10-bdfaca74d3c0" width="400"/>
 </p>
 
-## Electric Componen
+## Components Used During Field Testing
 
 <table align="center">
   <tr>
