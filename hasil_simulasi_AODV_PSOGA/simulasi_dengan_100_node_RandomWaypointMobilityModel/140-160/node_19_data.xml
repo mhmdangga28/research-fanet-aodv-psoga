@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<Node id="19">
+  <BestRouteResult round="1">
+    <BestRoute>99 95 3 74 37 83 41 93 66 57 79 50 39 94 60 17 45 56 76 14 4 98 43 13 27 29 11 8 40 26 18 72 28 55 75 42 5 0 </BestRoute>
+    <Fitness>0.393264</Fitness>
+    <AvgRSSI>-89.6561</AvgRSSI>
+    <AvgLatency>0.0973229</AvgLatency>
+    <AvgPDR>31.8919</AvgPDR>
+    <TotalDistance>26.8863</TotalDistance>
+    <Iterations>11</Iterations>
+  </BestRouteResult>
+  <BestRouteResult round="2">
+    <BestRoute>99 38 83 56 64 4 84 47 75 90 42 46 23 60 19 8 40 10 30 28 80 55 48 17 22 73 79 52 44 43 72 45 92 88 53 3 51 11 59 26 9 77 34 31 67 62 89 16 35 5 1 33 85 93 32 37 74 0 </BestRoute>
+    <Fitness>0.397323</Fitness>
+    <AvgRSSI>-89.5477</AvgRSSI>
+    <AvgLatency>0.0965239</AvgLatency>
+    <AvgPDR>32.4561</AvgPDR>
+    <TotalDistance>75.7912</TotalDistance>
+    <Iterations>17</Iterations>
+  </BestRouteResult>
+  <BestRouteResult round="3">
+    <BestRoute>99 8 22 60 64 20 23 46 7 63 43 37 65 24 59 53 26 17 55 19 93 9 92 71 32 13 73 76 27 16 18 57 98 6 47 54 97 50 69 80 21 2 83 78 45 49 0 </BestRoute>
+    <Fitness>0.39072</Fitness>
+    <AvgRSSI>-89.7205</AvgRSSI>
+    <AvgLatency>0.097846</AvgLatency>
+    <AvgPDR>31.5217</AvgPDR>
+    <TotalDistance>31.4518</TotalDistance>
+    <Iterations>12</Iterations>
+  </BestRouteResult>
+  <BestRouteResult round="4">
+    <BestRoute>99 65 98 90 66 68 84 54 56 78 15 43 19 3 87 48 77 76 28 13 79 6 47 14 71 46 96 93 39 10 74 2 72 27 35 5 0 </BestRoute>
+    <Fitness>0.390876</Fitness>
+    <AvgRSSI>-89.7248</AvgRSSI>
+    <AvgLatency>0.0972476</AvgLatency>
+    <AvgPDR>30.5556</AvgPDR>
+    <TotalDistance>44.4408</TotalDistance>
+    <Iterations>12</Iterations>
+  </BestRouteResult>
+  <BestRouteResult round="5">
+    <BestRoute>99 9 26 49 60 83 20 53 93 52 80 58 54 85 90 87 50 78 96 1 74 37 41 73 10 2 7 0 </BestRoute>
+    <Fitness>0.398177</Fitness>
+    <AvgRSSI>-89.5288</AvgRSSI>
+    <AvgLatency>0.0963313</AvgLatency>
+    <AvgPDR>32.5926</AvgPDR>
+    <TotalDistance>26.8863</TotalDistance>
+    <Iterations>11</Iterations>
+  </BestRouteResult>
+  <BestRouteResult round="6">
+    <BestRoute>99 42 87 69 98 85 46 23 44 0 </BestRoute>
+    <Fitness>0.435257</Fitness>
+    <AvgRSSI>-88.5451</AvgRSSI>
+    <AvgLatency>0.0889905</AvgLatency>
+    <AvgPDR>37.7778</AvgPDR>
+    <TotalDistance>49.0395</TotalDistance>
+    <Iterations>11</Iterations>
+  </BestRouteResult>
+  <BestRouteResult round="7">
+    <BestRoute>99 41 21 50 28 72 56 40 26 84 37 74 12 91 35 49 76 43 46 23 92 8 65 17 95 36 51 48 54 97 57 89 16 30 3 78 55 62 53 85 58 7 82 83 98 4 31 77 63 13 29 59 9 32 39 52 10 67 0 </BestRoute>
+    <Fitness>0.397025</Fitness>
+    <AvgRSSI>-89.5555</AvgRSSI>
+    <AvgLatency>0.0965838</AvgLatency>
+    <AvgPDR>32.4138</AvgPDR>
+    <TotalDistance>75.7912</TotalDistance>
+    <Iterations>18</Iterations>
+  </BestRouteResult>
+  <BestRouteResult round="8">
+    <BestRoute>99 61 29 40 83 42 6 22 56 49 62 44 37 45 24 1 67 75 34 10 58 55 93 26 77 74 65 3 43 63 36 86 92 68 18 38 41 98 27 94 15 8 72 11 70 0 </BestRoute>
+    <Fitness>0.399105</Fitness>
+    <AvgRSSI>-89.5258</AvgRSSI>
+    <AvgLatency>0.0955962</AvgLatency>
+    <AvgPDR>32</AvgPDR>
+    <TotalDistance>77.0582</TotalDistance>
+    <Iterations>21</Iterations>
+  </BestRouteResult>
+  <BestRouteResult round="9">
+    <BestRoute>99 25 68 79 21 52 57 81 72 43 96 11 14 91 2 97 31 0 </BestRoute>
+    <Fitness>0.404858</Fitness>
+    <AvgRSSI>-89.3129</AvgRSSI>
+    <AvgLatency>0.0941714</AvgLatency>
+    <AvgPDR>31.1765</AvgPDR>
+    <TotalDistance>38.7686</TotalDistance>
+    <Iterations>11</Iterations>
+  </BestRouteResult>
+  <BestRouteResult round="10">
+    <BestRoute>99 46 23 12 31 3 0 </BestRoute>
+    <Fitness>0.462885</Fitness>
+    <AvgRSSI>-87.8177</AvgRSSI>
+    <AvgLatency>0.0834857</AvgLatency>
+    <AvgPDR>41.6667</AvgPDR>
+    <TotalDistance>49.0395</TotalDistance>
+    <Iterations>11</Iterations>
+  </BestRouteResult>
+  <BestRouteResult round="11">
+    <BestRoute>99 48 79 95 41 77 66 9 53 93 20 61 11 33 43 42 46 73 22 64 89 44 31 88 81 13 23 40 15 90 19 67 75 4 35 21 50 59 45 54 39 24 26 37 65 97 32 29 60 18 55 3 49 76 91 7 30 8 6 16 34 47 12 52 10 82 25 1 87 38 72 58 57 36 74 92 94 98 80 83 27 96 56 0 </BestRoute>
+    <Fitness>0.396308</Fitness>
+    <AvgRSSI>-89.5187</AvgRSSI>
+    <AvgLatency>0.0964186</AvgLatency>
+    <AvgPDR>30.7229</AvgPDR>
+    <TotalDistance>107.622</TotalDistance>
+    <Iterations>11</Iterations>
+  </BestRouteResult>
+  <BestRouteResult round="12">
+    <BestRoute>99 70 46 45 83 47 78 98 48 80 7 11 60 41 0 </BestRoute>
+    <Fitness>0.411386</Fitness>
+    <AvgRSSI>-89.097</AvgRSSI>
+    <AvgLatency>0.0929224</AvgLatency>
+    <AvgPDR>31.4286</AvgPDR>
+    <TotalDistance>36.0441</TotalDistance>
+    <Iterations>11</Iterations>
+  </BestRouteResult>
+  <BestRouteResult round="13">
+    <BestRoute>99 64 13 81 83 52 23 46 40 36 8 66 53 4 80 10 82 3 78 39 49 96 94 67 70 44 73 79 9 18 76 1 7 55 68 57 71 29 20 6 84 15 34 86 27 75 59 56 87 12 35 90 14 2 38 69 37 45 51 0 </BestRoute>
+    <Fitness>0.396778</Fitness>
+    <AvgRSSI>-89.5607</AvgRSSI>
+    <AvgLatency>0.0966412</AvgLatency>
+    <AvgPDR>32.3729</AvgPDR>
+    <TotalDistance>67.3977</TotalDistance>
+    <Iterations>18</Iterations>
+  </BestRouteResult>
+  <BestRouteResult round="14">
+    <BestRoute>99 88 70 95 80 24 69 86 41 39 28 37 90 66 45 36 13 62 26 20 4 44 34 75 54 3 53 73 71 32 84 0 </BestRoute>
+    <Fitness>0.394572</Fitness>
+    <AvgRSSI>-89.6617</AvgRSSI>
+    <AvgLatency>0.0968037</AvgLatency>
+    <AvgPDR>32.2581</AvgPDR>
+    <TotalDistance>35.6229</TotalDistance>
+    <Iterations>11</Iterations>
+  </BestRouteResult>
+  <BestRouteResult round="15">
+    <BestRoute>99 2 92 91 46 81 27 10 48 32 77 13 3 85 20 75 45 37 74 38 60 97 88 87 76 31 41 47 90 61 12 8 66 80 98 58 28 44 0 </BestRoute>
+    <Fitness>0.392898</Fitness>
+    <AvgRSSI>-89.6662</AvgRSSI>
+    <AvgLatency>0.0973933</AvgLatency>
+    <AvgPDR>31.8421</AvgPDR>
+    <TotalDistance>26.7517</TotalDistance>
+    <Iterations>13</Iterations>
+  </BestRouteResult>
+  <BestRouteResult round="16">
+    <BestRoute>99 54 69 98 4 75 96 27 13 89 84 24 25 82 51 31 80 40 41 18 61 86 88 63 10 68 22 81 76 9 5 30 8 93 53 2 6 47 33 49 95 48 83 65 67 97 52 50 0 </BestRoute>
+    <Fitness>0.406351</Fitness>
+    <AvgRSSI>-89.3329</AvgRSSI>
+    <AvgLatency>0.0938071</AvgLatency>
+    <AvgPDR>32.2917</AvgPDR>
+    <TotalDistance>130.553</TotalDistance>
+    <Iterations>16</Iterations>
+  </BestRouteResult>
+  <Summary>
+    <TX_Packets>0</TX_Packets>
+    <RX_Packets>0</RX_Packets>
+    <Delay_Seconds>0</Delay_Seconds>
+    <PDR_Percent>0</PDR_Percent>
+  </Summary>
+</Node>

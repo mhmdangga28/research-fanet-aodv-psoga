@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Node id="67">
+  <Summary>
+    <TX_Packets>0</TX_Packets>
+    <RX_Packets>0</RX_Packets>
+    <Delay_Seconds>0</Delay_Seconds>
+    <PDR_Percent>0</PDR_Percent>
+  </Summary>
+</Node>

@@ -1,0 +1,251 @@
+<?xml version="1.0"?>
+<Node id="72">
+  <BestRouteResult round="1">
+    <BestRoute>99 38 75 15 50 69 39 12 23 82 89 9 6 5 49 41 85 81 17 1 0 </BestRoute>
+    <Fitness>0.699761</Fitness>
+    <AvgRSSI>-75.4994</AvgRSSI>
+    <AvgLatency>0.0702742</AvgLatency>
+    <AvgPDR>36.5485</AvgPDR>
+    <TotalDistance>66.0106</TotalDistance>
+    <Iterations>24</Iterations>
+  </BestRouteResult>
+  <BestRouteResult round="2">
+    <BestRoute>99 95 97 3 44 73 89 32 54 66 63 56 14 35 24 50 19 72 49 8 65 15 71 57 11 87 23 29 0 </BestRoute>
+    <Fitness>0.526228</Fitness>
+    <AvgRSSI>-84.7955</AvgRSSI>
+    <AvgLatency>0.0787696</AvgLatency>
+    <AvgPDR>42.6887</AvgPDR>
+    <TotalDistance>211.801</TotalDistance>
+    <Iterations>35</Iterations>
+  </BestRouteResult>
+  <Record>
+    <Sender>8</Sender>
+    <Receiver>72</Receiver>
+    <Time_Seconds>81.727</Time_Seconds>
+    <RSSI_dBm>-75.572</RSSI_dBm>
+    <PerHop_Delay>0.000914105</PerHop_Delay>
+    <Propagation_Delay>0.000000105</Propagation_Delay>
+    <Transmission_Delay>0.000672000</Transmission_Delay>
+    <QueueProcessing_Delay>0.000242000</QueueProcessing_Delay>
+    <Flow_PDR_Percent>0.00</Flow_PDR_Percent>
+    <Distance_Meters>31.42</Distance_Meters>
+    <Sent_Packets>0</Sent_Packets>
+    <Received_Packets>1</Received_Packets>
+  </Record>
+  <BestRouteResult round="3">
+    <BestRoute>99 96 42 29 91 20 55 98 1 70 13 97 3 45 52 67 31 33 46 64 9 75 68 53 48 24 41 73 65 94 19 82 83 8 49 76 71 10 6 69 51 15 26 18 0 </BestRoute>
+    <Fitness>0.50</Fitness>
+    <AvgRSSI>-85.19</AvgRSSI>
+    <AvgLatency>0.08</AvgLatency>
+    <AvgPDR>37.45</AvgPDR>
+    <TotalDistance>206.87</TotalDistance>
+    <Iterations>19</Iterations>
+  </BestRouteResult>
+  <Record>
+    <Sender>8</Sender>
+    <Receiver>72</Receiver>
+    <Time_Seconds>99.734</Time_Seconds>
+    <RSSI_dBm>-77.466</RSSI_dBm>
+    <PerHop_Delay>0.000914121</PerHop_Delay>
+    <Propagation_Delay>0.000000121</Propagation_Delay>
+    <Transmission_Delay>0.000672000</Transmission_Delay>
+    <QueueProcessing_Delay>0.000242000</QueueProcessing_Delay>
+    <Flow_PDR_Percent>11.11</Flow_PDR_Percent>
+    <Distance_Meters>36.32</Distance_Meters>
+    <Sent_Packets>18</Sent_Packets>
+    <Received_Packets>2</Received_Packets>
+  </Record>
+  <BestRouteResult round="4">
+    <BestRoute>99 24 80 14 37 39 47 91 62 96 50 34 46 74 28 11 65 82 51 93 81 36 53 12 40 18 25 85 0 </BestRoute>
+    <Fitness>0.50</Fitness>
+    <AvgRSSI>-85.56</AvgRSSI>
+    <AvgLatency>0.08</AvgLatency>
+    <AvgPDR>38.75</AvgPDR>
+    <TotalDistance>171.95</TotalDistance>
+    <Iterations>21</Iterations>
+  </BestRouteResult>
+  <BestRouteResult round="5">
+    <BestRoute>99 61 59 0 </BestRoute>
+    <Fitness>0.80</Fitness>
+    <AvgRSSI>-75.44</AvgRSSI>
+    <AvgLatency>0.03</AvgLatency>
+    <AvgPDR>60.00</AvgPDR>
+    <TotalDistance>57.53</TotalDistance>
+    <Iterations>20</Iterations>
+  </BestRouteResult>
+  <BestRouteResult round="6">
+    <BestRoute>99 31 0 </BestRoute>
+    <Fitness>0.83</Fitness>
+    <AvgRSSI>-70.44</AvgRSSI>
+    <AvgLatency>0.05</AvgLatency>
+    <AvgPDR>36.91</AvgPDR>
+    <TotalDistance>16.60</TotalDistance>
+    <Iterations>11</Iterations>
+  </BestRouteResult>
+  <BestRouteResult round="7">
+    <BestRoute>99 89 72 5 9 67 20 83 0 </BestRoute>
+    <Fitness>0.70</Fitness>
+    <AvgRSSI>-76.60</AvgRSSI>
+    <AvgLatency>0.06</AvgLatency>
+    <AvgPDR>38.97</AvgPDR>
+    <TotalDistance>75.07</TotalDistance>
+    <Iterations>20</Iterations>
+  </BestRouteResult>
+  <Record>
+    <Sender>8</Sender>
+    <Receiver>72</Receiver>
+    <Time_Seconds>163.733</Time_Seconds>
+    <RSSI_dBm>-73.808</RSSI_dBm>
+    <PerHop_Delay>0.000914092</PerHop_Delay>
+    <Propagation_Delay>0.000000091</Propagation_Delay>
+    <Transmission_Delay>0.000672000</Transmission_Delay>
+    <QueueProcessing_Delay>0.000242001</QueueProcessing_Delay>
+    <Flow_PDR_Percent>3.66</Flow_PDR_Percent>
+    <Distance_Meters>27.38</Distance_Meters>
+    <Sent_Packets>82</Sent_Packets>
+    <Received_Packets>3</Received_Packets>
+  </Record>
+  <BestRouteResult round="8">
+    <BestRoute>99 38 87 57 54 45 2 14 59 0 </BestRoute>
+    <Fitness>0.52</Fitness>
+    <AvgRSSI>-85.13</AvgRSSI>
+    <AvgLatency>0.08</AvgLatency>
+    <AvgPDR>40.00</AvgPDR>
+    <TotalDistance>51.96</TotalDistance>
+    <Iterations>11</Iterations>
+  </BestRouteResult>
+  <BestRouteResult round="9">
+    <BestRoute>99 1 44 68 61 5 52 78 27 64 63 79 12 30 50 84 24 19 96 54 23 77 33 93 87 29 74 2 20 51 0 </BestRoute>
+    <Fitness>0.55</Fitness>
+    <AvgRSSI>-82.77</AvgRSSI>
+    <AvgLatency>0.08</AvgLatency>
+    <AvgPDR>37.33</AvgPDR>
+    <TotalDistance>144.13</TotalDistance>
+    <Iterations>17</Iterations>
+  </BestRouteResult>
+  <BestRouteResult round="10">
+    <BestRoute>99 4 36 68 18 67 15 24 27 73 55 66 62 85 65 20 92 59 17 88 49 50 2 72 0 </BestRoute>
+    <Fitness>0.61</Fitness>
+    <AvgRSSI>-80.60</AvgRSSI>
+    <AvgLatency>0.07</AvgLatency>
+    <AvgPDR>39.18</AvgPDR>
+    <TotalDistance>136.13</TotalDistance>
+    <Iterations>28</Iterations>
+  </BestRouteResult>
+  <Record>
+    <Sender>67</Sender>
+    <Receiver>72</Receiver>
+    <Time_Seconds>197.723</Time_Seconds>
+    <RSSI_dBm>-57.146</RSSI_dBm>
+    <PerHop_Delay>0.000914025</PerHop_Delay>
+    <Propagation_Delay>0.000000025</Propagation_Delay>
+    <Transmission_Delay>0.000672000</Transmission_Delay>
+    <QueueProcessing_Delay>0.000242000</QueueProcessing_Delay>
+    <Flow_PDR_Percent>0.00</Flow_PDR_Percent>
+    <Distance_Meters>7.64</Distance_Meters>
+    <Sent_Packets>0</Sent_Packets>
+    <Received_Packets>1</Received_Packets>
+  </Record>
+  <BestRouteResult round="11">
+    <BestRoute>99 37 17 50 61 54 18 16 0 </BestRoute>
+    <Fitness>0.60</Fitness>
+    <AvgRSSI>-80.71</AvgRSSI>
+    <AvgLatency>0.08</AvgLatency>
+    <AvgPDR>35.00</AvgPDR>
+    <TotalDistance>30.32</TotalDistance>
+    <Iterations>11</Iterations>
+  </BestRouteResult>
+  <BestRouteResult round="12">
+    <BestRoute>99 76 33 15 65 6 8 7 17 1 22 75 70 71 53 11 55 54 32 25 92 23 3 57 10 42 29 34 67 36 63 2 61 97 21 49 41 84 47 52 82 98 37 39 18 66 80 4 48 38 85 9 26 69 27 46 58 73 83 0 </BestRoute>
+    <Fitness>0.52</Fitness>
+    <AvgRSSI>-84.40</AvgRSSI>
+    <AvgLatency>0.08</AvgLatency>
+    <AvgPDR>36.67</AvgPDR>
+    <TotalDistance>244.34</TotalDistance>
+    <Iterations>22</Iterations>
+  </BestRouteResult>
+  <Record>
+    <Sender>56</Sender>
+    <Receiver>72</Receiver>
+    <Time_Seconds>234.722</Time_Seconds>
+    <RSSI_dBm>-76.831</RSSI_dBm>
+    <PerHop_Delay>0.000914115</PerHop_Delay>
+    <Propagation_Delay>0.000000115</Propagation_Delay>
+    <Transmission_Delay>0.000672000</Transmission_Delay>
+    <QueueProcessing_Delay>0.000242000</QueueProcessing_Delay>
+    <Flow_PDR_Percent>0.00</Flow_PDR_Percent>
+    <Distance_Meters>34.58</Distance_Meters>
+    <Sent_Packets>0</Sent_Packets>
+    <Received_Packets>1</Received_Packets>
+  </Record>
+  <BestRouteResult round="13">
+    <BestRoute>99 96 73 18 67 34 27 6 89 24 80 79 66 11 2 17 32 92 94 60 25 86 16 22 37 64 21 10 83 13 93 71 9 98 53 77 91 82 51 97 95 40 59 0 </BestRoute>
+    <Fitness>0.54</Fitness>
+    <AvgRSSI>-84.34</AvgRSSI>
+    <AvgLatency>0.08</AvgLatency>
+    <AvgPDR>41.77</AvgPDR>
+    <TotalDistance>342.19</TotalDistance>
+    <Iterations>13</Iterations>
+  </BestRouteResult>
+  <BestRouteResult round="14">
+    <BestRoute>99 35 66 54 73 18 52 74 81 36 27 31 51 97 21 72 41 5 7 10 42 82 28 0 </BestRoute>
+    <Fitness>0.54</Fitness>
+    <AvgRSSI>-84.14</AvgRSSI>
+    <AvgLatency>0.07</AvgLatency>
+    <AvgPDR>38.75</AvgPDR>
+    <TotalDistance>196.28</TotalDistance>
+    <Iterations>18</Iterations>
+  </BestRouteResult>
+  <Record>
+    <Sender>51</Sender>
+    <Receiver>72</Receiver>
+    <Time_Seconds>269.721</Time_Seconds>
+    <RSSI_dBm>-77.931</RSSI_dBm>
+    <PerHop_Delay>0.000914126</PerHop_Delay>
+    <Propagation_Delay>0.000000125</Propagation_Delay>
+    <Transmission_Delay>0.000672000</Transmission_Delay>
+    <QueueProcessing_Delay>0.000242001</QueueProcessing_Delay>
+    <Flow_PDR_Percent>0.00</Flow_PDR_Percent>
+    <Distance_Meters>37.60</Distance_Meters>
+    <Sent_Packets>0</Sent_Packets>
+    <Received_Packets>1</Received_Packets>
+  </Record>
+  <BestRouteResult round="15">
+    <BestRoute>99 42 12 7 87 41 67 37 59 1 65 30 20 44 0 </BestRoute>
+    <Fitness>0.74</Fitness>
+    <AvgRSSI>-75.51</AvgRSSI>
+    <AvgLatency>0.06</AvgLatency>
+    <AvgPDR>52.26</AvgPDR>
+    <TotalDistance>124.39</TotalDistance>
+    <Iterations>45</Iterations>
+  </BestRouteResult>
+  <BestRouteResult round="16">
+    <BestRoute>99 65 25 62 17 46 34 56 57 23 0 </BestRoute>
+    <Fitness>0.71</Fitness>
+    <AvgRSSI>-77.54</AvgRSSI>
+    <AvgLatency>0.05</AvgLatency>
+    <AvgPDR>44.27</AvgPDR>
+    <TotalDistance>150.06</TotalDistance>
+    <Iterations>12</Iterations>
+  </BestRouteResult>
+  <Record>
+    <Sender>26</Sender>
+    <Receiver>72</Receiver>
+    <Time_Seconds>296.722</Time_Seconds>
+    <RSSI_dBm>-76.645</RSSI_dBm>
+    <PerHop_Delay>0.000914114</PerHop_Delay>
+    <Propagation_Delay>0.000000113</Propagation_Delay>
+    <Transmission_Delay>0.000672000</Transmission_Delay>
+    <QueueProcessing_Delay>0.000242001</QueueProcessing_Delay>
+    <Flow_PDR_Percent>0.00</Flow_PDR_Percent>
+    <Distance_Meters>34.05</Distance_Meters>
+    <Sent_Packets>0</Sent_Packets>
+    <Received_Packets>1</Received_Packets>
+  </Record>
+  <Summary>
+    <TX_Packets>1389</TX_Packets>
+    <RX_Packets>7</RX_Packets>
+    <Delay_Seconds>0.00</Delay_Seconds>
+    <PDR_Percent>0.50</PDR_Percent>
+  </Summary>
+</Node>

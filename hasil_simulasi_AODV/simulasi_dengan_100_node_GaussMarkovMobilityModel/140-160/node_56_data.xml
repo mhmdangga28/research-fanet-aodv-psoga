@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Node id="56">
+  <Record>
+    <Sender>88</Sender>
+    <Receiver>56</Receiver>
+    <Time_Seconds>261.722</Time_Seconds>
+    <RSSI_dBm>-77.233</RSSI_dBm>
+    <PerHop_Delay>0.000914119</PerHop_Delay>
+    <Propagation_Delay>0.000000119</Propagation_Delay>
+    <Transmission_Delay>0.000672000</Transmission_Delay>
+    <QueueProcessing_Delay>0.000242000</QueueProcessing_Delay>
+    <Flow_PDR_Percent>0.00</Flow_PDR_Percent>
+    <Distance_Meters>35.68</Distance_Meters>
+    <Sent_Packets>0</Sent_Packets>
+    <Received_Packets>1</Received_Packets>
+  </Record>
+  <Summary>
+    <TX_Packets>48</TX_Packets>
+    <RX_Packets>1</RX_Packets>
+    <Delay_Seconds>0.00</Delay_Seconds>
+    <PDR_Percent>2.08</PDR_Percent>
+  </Summary>
+</Node>
