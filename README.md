@@ -12,21 +12,12 @@ Mentor : Lisa Kristiana
 
 <table align="center">
   <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/28a50ebe-3c78-4f10-b72a-b66c007d4549" width="350"/>
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/537a22b5-c05e-4ab7-9949-edcf85df1694" width="350"/>
-    </td>
+    <td><img src="https://github.com/user-attachments/assets/28a50ebe-3c78-4f10-b72a-b66c007d4549" width="280"/></td>
+    <td><img src="https://github.com/user-attachments/assets/537a22b5-c05e-4ab7-9949-edcf85df1694" width="280"/></td>
   </tr>
   <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/0931bdb1-6abf-4979-9933-c31ca65d4059" width="500"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/cce5aeb3-4b99-467f-8f58-b4637d2d7385" width="500"/>
-    </td>
+    <td><img src="https://github.com/user-attachments/assets/0931bdb1-6abf-4979-9933-c31ca65d4059" width="280"/></td>
+    <td><img src="https://github.com/user-attachments/assets/cce5aeb3-4b99-467f-8f58-b4637d2d7385" width="280"/></td>
   </tr>
 </table>
+
