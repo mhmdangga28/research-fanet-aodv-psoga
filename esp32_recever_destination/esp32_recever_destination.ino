@@ -1,13 +1,3 @@
-/*
- * ESP32 Hybrid Mesh (ESP-NOW) + UDP to Raspberry Pi — FIXED (core 3.0.6)
- * - Arduino-ESP32 core v3.x (tested compile path)
- * - TTL real (drop/decrement)
- * - RREP uses reverse route to requester
- * - Routing seq uses packet seq (not local random)
- * - DATA dedup to avoid loops
- * - E2E ACK -> RPi via UDP (or relay via mesh if Wi-Fi down)
- */
-
 #include <WiFi.h>
 #include <WiFiUdp.h>
 #include <ArduinoJson.h>
