@@ -32,11 +32,15 @@ node_<nodeId>_data.xml
 | `BestRouteResult` | PSO-GA optimization result per round          |
 | `Summary`         | Node performance summary                      |
 
+## Elemen Root
+
 - Example for node ID in the ns-3 simulatio.
 
 ```
 <Node id="1">
 ```
+
+## Packet Level Logging
 
 - This element is recorded each time the node receives a packet.
 
@@ -73,3 +77,93 @@ node_<nodeId>_data.xml
 | `Distance_Meters`        | Float   | Distance between nodes (meters)                  |
 | `Sent_Packets`           | Integer | Total packets sent in the flow                   |
 | `Received_Packets`       | Integer | Total packets received in the flow               |
+
+## Optimization Output
+
+- This element stores the best route result produced by the PSO-GA algorithm.
+
+```
+<BestRouteResult round="1">
+    <BestRoute>99 44 70 64 1 10 32 50 71 90 82 55 0</BestRoute>
+    <Fitness>0.8452</Fitness>
+    <AvgRSSI>-65.12</AvgRSSI>
+    <AvgLatency>0.000004</AvgLatency>
+    <AvgPDR>98.50</AvgPDR>
+    <TotalDistance>850.25</TotalDistance>
+    <Iterations>100</Iterations>
+</BestRouteResult>
+```
+
+- Attribute
+
+| Attribute | Tipe    | Deskripsi        |
+| --------- | ------- | ---------------- |
+| `round`   | Integer | Putaran optimasi |
+
+-Field Explanation
+
+| Field           | Tipe    | Deskripsi                         |
+| --------------- | ------- | --------------------------------- |
+| `BestRoute`     | String  | Daftar node ID dalam rute terbaik |
+| `Fitness`       | Float   | Nilai fitness rute                |
+| `AvgRSSI`       | Float   | Rata-rata RSSI rute               |
+| `AvgLatency`    | Float   | Rata-rata latency                 |
+| `AvgPDR`        | Float   | Rata-rata PDR (%)                 |
+| `TotalDistance` | Float   | Total jarak rute (meter)          |
+| `Iterations`    | Integer | Jumlah iterasi PSO-GA             |
+
+## Node Performance Overview
+
+```
+<Summary>
+    <TX_Packets>305</TX_Packets>
+    <RX_Packets>2</RX_Packets>
+    <Delay_Seconds>0.000004</Delay_Seconds>
+    <PDR_Percent>0.66</PDR_Percent>
+</Summary>
+```
+
+- Field Explanation
+
+| Field           | Tipe    | Deskripsi                       |
+| --------------- | ------- | ------------------------------- |
+| `TX_Packets`    | Integer | Total paket dikirim             |
+| `RX_Packets`    | Integer | Total paket diterima            |
+| `Delay_Seconds` | Float   | Rata-rata delay (detik)         |
+| `PDR_Percent`   | Float   | Packet Delivery Ratio total (%) |
+
+## Hierarchical Schema
+
+Node
+ ├── Record*
+ │     ├── Sender
+ │     ├── Receiver
+ │     ├── Time_Seconds
+ │     ├── RSSI_dBm
+ │     ├── PerHop_Delay
+ │     ├── Propagation_Delay
+ │     ├── Transmission_Delay
+ │     ├── QueueProcessing_Delay
+ │     ├── Flow_PDR_Percent
+ │     ├── Distance_Meters
+ │     ├── Sent_Packets
+ │     └── Received_Packets
+ │
+ ├── BestRouteResult*
+ │     ├── BestRoute
+ │     ├── Fitness
+ │     ├── AvgRSSI
+ │     ├── AvgLatency
+ │     ├── AvgPDR
+ │     ├── TotalDistance
+ │     └── Iterations
+ │
+ └── Summary
+       ├── TX_Packets
+       ├── RX_Packets
+       ├── Delay_Seconds
+       └── PDR_Percent
+
+
+
+
