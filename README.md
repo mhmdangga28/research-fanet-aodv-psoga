@@ -136,7 +136,7 @@ node_<nodeId>_data.xml
 
 ```
 Node
- ├── Record*
+ ├── Record
  │     ├── Sender
  │     ├── Receiver
  │     ├── Time_Seconds
@@ -150,7 +150,7 @@ Node
  │     ├── Sent_Packets
  │     └── Received_Packets
  │
- ├── BestRouteResult*
+ ├── BestRouteResult
  │     ├── BestRoute
  │     ├── Fitness
  │     ├── AvgRSSI
